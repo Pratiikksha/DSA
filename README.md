@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/Pratiikksha/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Pratiikksha/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2236-root-equals-sum-of-children](https://github.com/Pratiikksha/DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -36,4 +37,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/Pratiikksha/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/Pratiikksha/DSA/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
