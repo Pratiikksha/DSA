@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Pratiikksha/DSA/tree/master/0542-01-matrix) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Pratiikksha/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Pratiikksha/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Bit Manipulation
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Pratiikksha/DSA/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Pratiikksha/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Pratiikksha/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Pratiikksha/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Pratiikksha/DSA/tree/master/0733-flood-fill) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pratiikksha/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pratiikksha/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Pratiikksha/DSA/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Pratiikksha/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Pratiikksha/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Pratiikksha/DSA/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Pratiikksha/DSA/tree/master/0997-find-the-town-judge) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Pratiikksha/DSA/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Pratiikksha/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Pratiikksha/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Pratiikksha/DSA/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
