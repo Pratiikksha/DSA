@@ -26,10 +26,10 @@ public:
         vector<int>vis(numCourses,0),path(numCourses,0);
         for(int i=0;i<numCourses;i++){
             if(!vis[i]){
-                dfs(i,adj,vis,path,st);
+                if(dfs(i,adj,vis,path,st))
+                return {};
             }
         }
-        if(st.size()!=numCourses)return{};
         vector<int>ans;
         while(!st.empty()){
             ans.push_back(st.top());
