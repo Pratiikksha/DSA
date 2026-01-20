@@ -9,12 +9,12 @@ public:
             if(!vis[adjNode]){
                 if(dfs(adjNode,adj,prerequisites,vis,path))
                 return true;
-                path[adjNode]=0;
             }
             else if(vis[adjNode] && path[adjNode]){
                 return true;
             }
         }
+        path[num]=0;
         return false;
     }
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
