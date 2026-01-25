@@ -25,9 +25,6 @@ public:
                 count++;
             }
         }
-        if (k < count - 1)
-            return -1;
-        else
             return count - 1;
     }
 };
