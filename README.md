@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Pratiikksha/DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Pratiikksha/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Pratiikksha/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/Pratiikksha/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Pratiikksha/DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Pratiikksha/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pratiikksha/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Pratiikksha/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Pratiikksha/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Pratiikksha/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/Pratiikksha/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Pratiikksha/DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Pratiikksha/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pratiikksha/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Pratiikksha/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Pratiikksha/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Pratiikksha/DSA/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/Pratiikksha/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Pratiikksha/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Pratiikksha/DSA/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Pratiikksha/DSA/tree/master/0997-find-the-town-judge) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pratiikksha/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pratiikksha/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Pratiikksha/DSA/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/Pratiikksha/DSA/tree/master/0721-accounts-merge) |
 | [0997-find-the-town-judge](https://github.com/Pratiikksha/DSA/tree/master/0997-find-the-town-judge) |
 ## Divide and Conquer
 |  |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Pratiikksha/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Pratiikksha/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Pratiikksha/DSA/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Pratiikksha/DSA/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Pratiikksha/DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Pratiikksha/DSA/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Pratiikksha/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -169,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Pratiikksha/DSA/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/Pratiikksha/DSA/tree/master/0721-accounts-merge) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -180,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pratiikksha/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Pratiikksha/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Pratiikksha/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Sorting
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/Pratiikksha/DSA/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
