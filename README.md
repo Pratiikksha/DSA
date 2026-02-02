@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Pratiikksha/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Pratiikksha/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Pratiikksha/DSA/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Pratiikksha/DSA/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Pratiikksha/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Pratiikksha/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/Pratiikksha/DSA/tree/master/0721-accounts-merge) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Pratiikksha/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Pratiikksha/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Pratiikksha/DSA/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Pratiikksha/DSA/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/Pratiikksha/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Pratiikksha/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Pratiikksha/DSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pratiikksha/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Pratiikksha/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Pratiikksha/DSA/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Pratiikksha/DSA/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/Pratiikksha/DSA/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/Pratiikksha/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Pratiikksha/DSA/tree/master/0733-flood-fill) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Pratiikksha/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Pratiikksha/DSA/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Pratiikksha/DSA/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Pratiikksha/DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Pratiikksha/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pratiikksha/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Pratiikksha/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Pratiikksha/DSA/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Pratiikksha/DSA/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Pratiikksha/DSA/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Pratiikksha/DSA/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Pratiikksha/DSA/tree/master/0785-is-graph-bipartite) |
@@ -188,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Pratiikksha/DSA/tree/master/0127-word-ladder) |
+| [0399-evaluate-division](https://github.com/Pratiikksha/DSA/tree/master/0399-evaluate-division) |
 | [0721-accounts-merge](https://github.com/Pratiikksha/DSA/tree/master/0721-accounts-merge) |
 ## Heap (Priority Queue)
 |  |
@@ -197,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Pratiikksha/DSA/tree/master/0399-evaluate-division) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pratiikksha/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Pratiikksha/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Pratiikksha/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
