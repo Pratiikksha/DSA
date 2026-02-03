@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Pratiikksha/DSA/tree/master/0146-lru-cache) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Pratiikksha/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Tree
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pratiikksha/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pratiikksha/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Pratiikksha/DSA/tree/master/0127-word-ladder) |
+| [0146-lru-cache](https://github.com/Pratiikksha/DSA/tree/master/0146-lru-cache) |
 | [0721-accounts-merge](https://github.com/Pratiikksha/DSA/tree/master/0721-accounts-merge) |
 | [0997-find-the-town-judge](https://github.com/Pratiikksha/DSA/tree/master/0997-find-the-town-judge) |
 ## Divide and Conquer
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Pratiikksha/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pratiikksha/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Pratiikksha/DSA/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Pratiikksha/DSA/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/Pratiikksha/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0725-split-linked-list-in-parts](https://github.com/Pratiikksha/DSA/tree/master/0725-split-linked-list-in-parts) |
 ## Stack
@@ -226,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Pratiikksha/DSA/tree/master/1192-critical-connections-in-a-network) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Pratiikksha/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
