@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Pratiikksha/DSA/tree/master/0146-lru-cache) |
 | [1472-design-browser-history](https://github.com/Pratiikksha/DSA/tree/master/1472-design-browser-history) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Pratiikksha/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1797-design-authentication-manager](https://github.com/Pratiikksha/DSA/tree/master/1797-design-authentication-manager) |
 ## Binary Tree
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Pratiikksha/DSA/tree/master/0146-lru-cache) |
 | [0721-accounts-merge](https://github.com/Pratiikksha/DSA/tree/master/0721-accounts-merge) |
 | [0997-find-the-town-judge](https://github.com/Pratiikksha/DSA/tree/master/0997-find-the-town-judge) |
+| [1797-design-authentication-manager](https://github.com/Pratiikksha/DSA/tree/master/1797-design-authentication-manager) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Pratiikksha/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0725-split-linked-list-in-parts](https://github.com/Pratiikksha/DSA/tree/master/0725-split-linked-list-in-parts) |
 | [1472-design-browser-history](https://github.com/Pratiikksha/DSA/tree/master/1472-design-browser-history) |
+| [1797-design-authentication-manager](https://github.com/Pratiikksha/DSA/tree/master/1797-design-authentication-manager) |
 ## Stack
 |  |
 | ------- |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Pratiikksha/DSA/tree/master/0146-lru-cache) |
 | [1472-design-browser-history](https://github.com/Pratiikksha/DSA/tree/master/1472-design-browser-history) |
+| [1797-design-authentication-manager](https://github.com/Pratiikksha/DSA/tree/master/1797-design-authentication-manager) |
 ## Data Stream
 |  |
 | ------- |
