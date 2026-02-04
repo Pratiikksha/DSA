@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Pratiikksha/DSA/tree/master/0146-lru-cache) |
+| [1472-design-browser-history](https://github.com/Pratiikksha/DSA/tree/master/1472-design-browser-history) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Pratiikksha/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Tree
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Pratiikksha/DSA/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Pratiikksha/DSA/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/Pratiikksha/DSA/tree/master/1020-number-of-enclaves) |
+| [1472-design-browser-history](https://github.com/Pratiikksha/DSA/tree/master/1472-design-browser-history) |
 | [1631-path-with-minimum-effort](https://github.com/Pratiikksha/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Hash Table
 |  |
@@ -136,11 +138,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Pratiikksha/DSA/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/Pratiikksha/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0725-split-linked-list-in-parts](https://github.com/Pratiikksha/DSA/tree/master/0725-split-linked-list-in-parts) |
+| [1472-design-browser-history](https://github.com/Pratiikksha/DSA/tree/master/1472-design-browser-history) |
 ## Stack
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pratiikksha/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Pratiikksha/DSA/tree/master/0143-reorder-list) |
+| [1472-design-browser-history](https://github.com/Pratiikksha/DSA/tree/master/1472-design-browser-history) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -233,4 +237,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Pratiikksha/DSA/tree/master/0146-lru-cache) |
+| [1472-design-browser-history](https://github.com/Pratiikksha/DSA/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Pratiikksha/DSA/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
