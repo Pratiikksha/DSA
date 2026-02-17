@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Pratiikksha/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0401-binary-watch](https://github.com/Pratiikksha/DSA/tree/master/0401-binary-watch) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Pratiikksha/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Tree
 |  |
@@ -277,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/Pratiikksha/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Pratiikksha/DSA/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
