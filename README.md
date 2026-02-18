@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Pratiikksha/DSA/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/Pratiikksha/DSA/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Pratiikksha/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Pratiikksha/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1472-design-browser-history](https://github.com/Pratiikksha/DSA/tree/master/1472-design-browser-history) |
 | [1631-path-with-minimum-effort](https://github.com/Pratiikksha/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Hash Table
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pratiikksha/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Pratiikksha/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1631-path-with-minimum-effort](https://github.com/Pratiikksha/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/Pratiikksha/DSA/tree/master/0721-accounts-merge) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Pratiikksha/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Two Pointers
 |  |
 | ------- |
@@ -282,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Pratiikksha/DSA/tree/master/0401-binary-watch) |
+## Greedy
+|  |
+| ------- |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Pratiikksha/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 <!---LeetCode Topics End-->
