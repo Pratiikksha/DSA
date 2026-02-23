@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Pratiikksha/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Pratiikksha/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0327-count-of-range-sum](https://github.com/Pratiikksha/DSA/tree/master/0327-count-of-range-sum) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Pratiikksha/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1631-path-with-minimum-effort](https://github.com/Pratiikksha/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Pratiikksha/DSA/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Pratiikksha/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Pratiikksha/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pratiikksha/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0327-count-of-range-sum](https://github.com/Pratiikksha/DSA/tree/master/0327-count-of-range-sum) |
 | [0399-evaluate-division](https://github.com/Pratiikksha/DSA/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/Pratiikksha/DSA/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/Pratiikksha/DSA/tree/master/0721-accounts-merge) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pratiikksha/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pratiikksha/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Pratiikksha/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0327-count-of-range-sum](https://github.com/Pratiikksha/DSA/tree/master/0327-count-of-range-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -304,4 +307,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Pratiikksha/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Pratiikksha/DSA/tree/master/0327-count-of-range-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Pratiikksha/DSA/tree/master/0327-count-of-range-sum) |
+## Merge Sort
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Pratiikksha/DSA/tree/master/0327-count-of-range-sum) |
+## Ordered Set
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Pratiikksha/DSA/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
