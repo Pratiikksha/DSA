@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pratiikksha/DSA/tree/master/0011-container-with-most-water) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pratiikksha/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pratiikksha/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Pratiikksha/DSA/tree/master/0130-surrounded-regions) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pratiikksha/DSA/tree/master/0011-container-with-most-water) |
 | [0143-reorder-list](https://github.com/Pratiikksha/DSA/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pratiikksha/DSA/tree/master/0011-container-with-most-water) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Pratiikksha/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Binary Indexed Tree
 |  |
