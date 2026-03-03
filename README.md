@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Pratiikksha/DSA/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pratiikksha/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/Pratiikksha/DSA/tree/master/0721-accounts-merge) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pratiikksha/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Pratiikksha/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Heap (Priority Queue)
 |  |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Pratiikksha/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/Pratiikksha/DSA/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Pratiikksha/DSA/tree/master/0203-remove-linked-list-elements) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pratiikksha/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -334,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Pratiikksha/DSA/tree/master/0327-count-of-range-sum) |
+## Simulation
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pratiikksha/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
