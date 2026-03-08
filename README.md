@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pratiikksha/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Pratiikksha/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Pratiikksha/DSA/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [1980-find-unique-binary-string](https://github.com/Pratiikksha/DSA/tree/master/1980-find-unique-binary-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Pratiikksha/DSA/tree/master/0997-find-the-town-judge) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Pratiikksha/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1797-design-authentication-manager](https://github.com/Pratiikksha/DSA/tree/master/1797-design-authentication-manager) |
+| [1980-find-unique-binary-string](https://github.com/Pratiikksha/DSA/tree/master/1980-find-unique-binary-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Pratiikksha/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Pratiikksha/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Pratiikksha/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/Pratiikksha/DSA/tree/master/1980-find-unique-binary-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Pratiikksha/DSA/tree/master/0401-binary-watch) |
+| [1980-find-unique-binary-string](https://github.com/Pratiikksha/DSA/tree/master/1980-find-unique-binary-string) |
 ## Greedy
 |  |
 | ------- |
