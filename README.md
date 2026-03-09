@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Pratiikksha/DSA/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Pratiikksha/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Pratiikksha/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Pratiikksha/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Pratiikksha/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Pratiikksha/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Pratiikksha/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Pratiikksha/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Math
 |  |
 | ------- |
