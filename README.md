@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Pratiikksha/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0401-binary-watch](https://github.com/Pratiikksha/DSA/tree/master/0401-binary-watch) |
+| [1009-complement-of-base-10-integer](https://github.com/Pratiikksha/DSA/tree/master/1009-complement-of-base-10-integer) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Pratiikksha/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Tree
 |  |
