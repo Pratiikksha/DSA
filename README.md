@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Pratiikksha/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Pratiikksha/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1472-design-browser-history](https://github.com/Pratiikksha/DSA/tree/master/1472-design-browser-history) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Pratiikksha/DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Pratiikksha/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pratiikksha/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Pratiikksha/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Pratiikksha/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/Pratiikksha/DSA/tree/master/0997-find-the-town-judge) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Pratiikksha/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Pratiikksha/DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1797-design-authentication-manager](https://github.com/Pratiikksha/DSA/tree/master/1797-design-authentication-manager) |
 | [1980-find-unique-binary-string](https://github.com/Pratiikksha/DSA/tree/master/1980-find-unique-binary-string) |
 ## Divide and Conquer
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0721-accounts-merge](https://github.com/Pratiikksha/DSA/tree/master/0721-accounts-merge) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Pratiikksha/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Pratiikksha/DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Pratiikksha/DSA/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Pratiikksha/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Two Pointers
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pratiikksha/DSA/tree/master/0011-container-with-most-water) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Pratiikksha/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Pratiikksha/DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Pratiikksha/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Pratiikksha/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pratiikksha/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -389,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Pratiikksha/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Counting
+|  |
+| ------- |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Pratiikksha/DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 <!---LeetCode Topics End-->
