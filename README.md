@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Pratiikksha/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/Pratiikksha/DSA/tree/master/0721-accounts-merge) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Pratiikksha/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1529-minimum-suffix-flips](https://github.com/Pratiikksha/DSA/tree/master/1529-minimum-suffix-flips) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pratiikksha/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Pratiikksha/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Pratiikksha/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Pratiikksha/DSA/tree/master/0011-container-with-most-water) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Pratiikksha/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Pratiikksha/DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1529-minimum-suffix-flips](https://github.com/Pratiikksha/DSA/tree/master/1529-minimum-suffix-flips) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Pratiikksha/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Pratiikksha/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pratiikksha/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
