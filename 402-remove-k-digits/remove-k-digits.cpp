@@ -25,13 +25,11 @@ public:
             ans.push_back(st.top());
             st.pop();
         }
-        reverse(ans.begin(), ans.end());
-        int i = 0;
-        while (i < ans.size() && ans[i] == '0') {
-            i++;
+        while(ans.size()>0 && ans.back()=='0'){
+            ans.pop_back();
         }
-        if (i == ans.size())
-            return "0";
-        return ans.substr(i);
+        if(ans=="") return "0";
+        reverse(ans.begin(), ans.end());
+        return ans;
     }
 };
