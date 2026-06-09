@@ -23,23 +23,29 @@ public:
         if (pq.empty())
             return NULL;
         auto [value, item] = pq.top();
-        ListNode* head = new ListNode(value);
+        ListNode* head = new ListNode();
         ListNode* temp = new ListNode();
+        ListNode* temp3 = new ListNode();
+        temp3 = item->next;
+        item->next = nullptr;
+        head = item;
         temp = head;
         pq.pop();
-        if (item->next) {
-            pq.push({item->next->val, item->next});
+        if (temp3) {
+            pq.push({temp3->val, temp3});
         }
         while (!pq.empty()) {
             auto [value, item] = pq.top();
+            ListNode* temp2 = new ListNode();
+            temp2 = item->next;
             if (item) {
-                ListNode* temp2 = new ListNode(value);
-                temp->next = temp2;
-                temp = temp2;
+                item->next = nullptr;
+                temp->next= item;
+                temp=item;
             }
             pq.pop();
-            if (item->next) {
-                pq.push({item->next->val, item->next});
+            if (temp2) {
+                pq.push({temp2->val, temp2});
             }
         }
         return head;
