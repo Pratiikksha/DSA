@@ -1,22 +1,30 @@
 class Solution {
 public:
-
-   void f(int open, int close,int n,string curr, vector<string>& ans){
-    if(open==n && open==close){
-        ans.push_back(curr);
+    void generate(string curr,int open,int close,int n,vector<string>&ans){
+        if(open>n || close>n) return;
+        if(curr.size()==2*n && open==n && close==n){
+          ans.push_back(curr);
+          return;
+        }
+        curr.push_back('(');
+        open++;
+        generate(curr,open,close,n,ans);
+        curr.pop_back();
+        open--;
+        if(curr.back()=='(' || open>close){
+            curr.push_back(')');
+            close++;
+            generate(curr,open,close,n,ans);
+        }
+        curr.pop_back();
+        close--;
         return;
     }
-    if(open<n){
-        f(open+1,close,n,curr+'(',ans);
-    }
-    if(close<open){
-        f(open,close+1,n,curr+')',ans);
-    }
-   }
     vector<string> generateParenthesis(int n) {
-        //your code goes here
-        vector<string> ans;
-        f(0,0,n,"",ans);
+        if(n==1) return {"()"};
+        vector<string>ans;
+        string s="(";
+        generate(s,1,0,n,ans);
         return ans;
     }
 };
