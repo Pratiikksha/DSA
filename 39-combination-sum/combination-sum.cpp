@@ -1,25 +1,25 @@
 class Solution {
 public:
-    void sum(int idx,int target,vector<int>& curr,vector<vector<int>>& ans,vector<int>& nums){
-        if(target==0){
-            ans.push_back(curr);
+    void findCombination(int idx,int curr,vector<int>&temp,vector<int>&candidates,int target, vector<vector<int>>& ans){
+        if(idx==candidates.size()){
+            if(curr==target){
+                ans.push_back(temp);
+            }
             return;
         }
-        if(idx==nums.size()){
-            return;
+        if(curr+candidates[idx]<=target){
+            temp.push_back(candidates[idx]);
+            findCombination(idx,curr+candidates[idx],temp,candidates,target,ans);
+            temp.pop_back();
         }
-        curr.push_back(nums[idx]);
-        if(target>=nums[idx])
-        sum(idx,target-nums[idx],curr,ans,nums);
-        // if(target>=nums[idx])
-        // sum(idx+1,target-nums[idx],curr,ans,nums);
-        curr.pop_back();
-        sum(idx+1,target,curr,ans,nums);
+        findCombination(idx+1,curr,temp,candidates,target,ans);
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<vector<int>> ans;
-        vector<int> curr;
-        sum(0,target,curr,ans,candidates);
+        int sum=accumulate(candidates.begin(),candidates.end(),0);
+        vector<vector<int>>ans;
+        int curr=0;
+        vector<int>temp;
+        findCombination(0,curr,temp,candidates,target,ans);
         return ans;
     }
 };
