@@ -1,39 +1,26 @@
 class Solution {
 public:
-    void solve(int idx, int target, vector<int>& curr, vector<vector<int>>& ans,
-               vector<int>& nums) {
-
-        if (target == 0) {
-            ans.push_back(curr);
+     void findCombination(int idx,int curr,vector<int>&temp,vector<int>&candidates,int target, vector<vector<int>>& ans){
+        if(idx==candidates.size()){
+            if(curr==target){
+                ans.push_back(temp);
+            }
             return;
         }
-
-        for (int i = idx; i < nums.size(); i++) {
-
-            // Skip duplicates
-            if (i > idx && nums[i] == nums[i - 1])
-                continue;
-
-            if (nums[i] > target)
-                break;
-
-            curr.push_back(nums[i]);
-
-            solve(i + 1, target - nums[i], curr, ans, nums);
-
-            curr.pop_back();
+        if(curr+candidates[idx]<=target){
+            temp.push_back(candidates[idx]);
+            findCombination(idx+1,curr+candidates[idx],temp,candidates,target,ans);
+            temp.pop_back();
         }
+        while(idx<candidates.size()-1 && candidates[idx+1]==candidates[idx]) idx++;
+        findCombination(idx+1,curr,temp,candidates,target,ans);
     }
-
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
-
-        sort(candidates.begin(), candidates.end());
-
-        vector<vector<int>> ans;
-        vector<int> curr;
-
-        solve(0, target, curr, ans, candidates);
-
+        sort(candidates.begin(),candidates.end());
+        vector<vector<int>>ans;
+        int curr=0;
+        vector<int>temp;
+        findCombination(0,curr,temp,candidates,target,ans);
         return ans;
     }
 };
