@@ -6,12 +6,14 @@ public:
         for(int i=0;i<n;i++){
             mp[nums[i]]+=nums[i];
         }
-        vector<int>dp(20000,0);
-        dp[0]=mp[0];
-        dp[1]=max(mp[0],mp[1]);
+        int maxi=0;
+        int x=mp[0];
+        int y=max(mp[0],mp[1]);
         for(int i=2;i<20000;i++){
-            dp[i]=max(dp[i-2]+mp[i],dp[i-1]);
+            maxi=max(x+mp[i],y);
+            x=y;
+            y=maxi;
         }
-        return dp[19999];
+        return maxi;
     }
 };
