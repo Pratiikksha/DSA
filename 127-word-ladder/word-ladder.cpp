@@ -1,28 +1,32 @@
 class Solution {
 public:
-    int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
-        int n=wordList.size();
-        unordered_set<string>st(wordList.begin(),wordList.end());
-        if(!st.count(endWord)) return 0;
-        queue<pair<string,int>>q;
-        q.push({beginWord,1});
-        int s=beginWord.size();
-        int cnt=0;
-        while(!q.empty()){
-            string word=q.front().first;
-            int steps=q.front().second;
-            q.pop();
-            if(word==endWord) return steps;
-            for(int i=0;i<s;i++){
-                int original=word[i];
-                for(char c='a';c<='z';c++){
-                    word[i]=c;
-                    if(st.count(word)){
-                        q.push({word,steps+1});
-                        st.erase(word);
+    int ladderLength(string beginWord, string endWord,
+                     vector<string>& wordList) {
+        unordered_set<string> st(wordList.begin(), wordList.end());
+        if (!st.contains(endWord))
+            return 0;
+        queue<string> q;
+        q.push(beginWord);
+        int cnt = 0;
+        unordered_map<string, int> vis;
+        while (!q.empty()) {
+            cnt++;
+            int size = q.size();
+            while (size--) {
+                string s = q.front();
+                if(s==endWord) return cnt;
+                q.pop();
+                for (int i = 0; i < s.size(); i++) {
+                    string changed=s;
+                    for (char c = 'a'; c <= 'z'; c++) {
+                        changed[i]=c;
+                        if(st.contains(changed) && vis.find(changed)==vis.end()){
+                            vis[changed]=1;
+                            q.push(changed);
+                        }
                     }
+                    changed=s;
                 }
-                word[i]=original;
             }
         }
         return 0;
